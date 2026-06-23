@@ -27,6 +27,4 @@ An AI-powered tool that automatically converts source code into Software Require
 - Streamlit
 - Requests
 
----
 
-## Project Structure
